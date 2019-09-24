@@ -1,5 +1,7 @@
 # hello-world
 
+自己实现的类似于`vuex`的功能，用于练习
+
 ## Project setup
 ```
 npm install
